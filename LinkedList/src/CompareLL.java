@@ -4,9 +4,11 @@
  ll2 :  3|2020   4|2040   5|null 
  To check whether these are LL are Identical or not
  i. take 2 node, say, a, b;
- ii. a is head lo LL1 and b is head of LL2
+ ii. a is head of LL1 and b is head of LL2
  iii. we'll be checking the data part of two LL upto to where they  reach the null node or one of them reach the null node 
+
  */
+
 public class CompareLL {
 	Node head;
 	static class Node{
